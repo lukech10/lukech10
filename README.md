@@ -1,8 +1,6 @@
-# Hey There!! My name is Ricardo 🕷️
-
-  Currently a student of 42 Madrid. 💾
+# Hey There!! My name is Nacho 🕷️
   
-  Focus on being a better developer every day!! 🏋
+Focus on being a better developer every day!! 🏋
 
 ## 📊 My stats:
 <p align="center">
@@ -11,11 +9,6 @@
       <td>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api?username=lukech10&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true)](https://github.com/lukech10" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img src="charizard2.gif" alt="Charizard GIF" />
         </p>
       </td>
     </tr>
@@ -28,7 +21,7 @@
 ## 📫 How you can find me:
 
 <div>
-  <a href="https://www.linkedin.com/in/ricardo-paparoni/">
+  <a href="https://www.linkedin.com/in/ignacio-luque-lopez-619b581a9/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" width="150" height="40"/>
   </a>
   <a href="mailto:paparoniricardo@gmail.com">
