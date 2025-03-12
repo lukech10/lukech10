@@ -3,15 +3,43 @@
 <p align="center">
   <b>Focused on becoming a better developer every day! 🏋</b>
 </p>
-
----
+<div align="center">
+<p align="center">
+  <a href="https://github.com/lukech10?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lukech10?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/lukech10?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lukech10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/lukech10/view-count-badge">
+    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/lukech10/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
+  <a href="https://npmjs.com/~lukech10"><img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/0-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
+</p>
+</div>
+</br>
 
 ## 📊 My Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukech10&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true" width="60%" />
+ <a href="https://github.com/lukech10/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukech10&show_icons=true&theme=midnight-purple&hide_border=true" />
+ </a><a href="https://github.com/lukech10/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukech10&layout=compact&theme=midnight-purple&hide_border=true" />
+ </a> 
+  <a href="https://github.com/lukech10#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=lukech10&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+</a>
 </div>
 
----
+<div align="center">
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukech10&theme=tokyonight" alt="lukech10 github stats" /></a>
+</p>
+</div>
+
+<div align="center">
+<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</a>
+</p>
+</div>
 
 ## 🛠️ Languages and Tools:
 <p align="center">
@@ -49,8 +77,6 @@
   </table>
 </p>
 
----
-
 ## 📫 Get in Touch:
 <p align="center">
   <a href="https://www.linkedin.com/in/ignacio-luque-lopez-619b581a9/" target="_blank">
@@ -61,9 +87,9 @@
   </a>
 </p>
 
----
 <p align="center">
   <b>💡 *Always open to collaboration and new challenges! 🚀*</b>
 </p>
+
 
 
