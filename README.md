@@ -10,7 +10,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="500px" style="border: 2px solid #444; border-radius: 15px; padding: 15px; background: #1e1e1e; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);">
+      <td align="center" width="500px" style="border: 2px solid red; border-radius: 30px; padding: 15px; background: #1e1e1e; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);">
         <img src="https://github-readme-stats.vercel.app/api?username=lukech10&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" width="100%">
       </td>
     </tr>
