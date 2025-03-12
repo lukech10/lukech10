@@ -11,7 +11,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lukech10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   <a href="https://github.com/lukech10/view-count-badge">
     <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/lukech10/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
- 
 </p>
 </div>
 </br>
@@ -22,12 +21,11 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukech10&show_icons=true&theme=midnight-purple&hide_border=true" />
  </a><a href="https://github.com/lukech10/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukech10&layout=compact&theme=midnight-purple&hide_border=true" />
- </a> 
-  <a href="https://github.com/lukech10#gh-light-mode-only" align="center">
+ </a><a href="https://github.com/lukech10#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=lukech10&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 </div>
-
+</br>
 <div align="center">
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukech10&theme=tokyonight" alt="lukech10 github stats" /></a>
