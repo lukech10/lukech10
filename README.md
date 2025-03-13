@@ -1,4 +1,6 @@
-<h1 align="center">Hey There!! 👋 I'm Nacho 🕷️</h1>
+<h1 align="center">🚀 Ignacio Luque | Full Stack Developer & Entrepreneur </h1>
+
+Hi there! I'm Ignacio or lukech, a **full-stack developer**, **entrepreneur**, and **problem solver**. I specialize in building scalable web applications, automating trading strategies, and optimizing complex systems. I run **Boreal Studio**, where I create high-performance websites, and I work on multiple **side projects** related to fintech, e-commerce, and automation.
 
 <p align="center">
   <b>Focused on becoming a better developer every day! 🏋</b>
