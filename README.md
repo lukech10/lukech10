@@ -1,9 +1,7 @@
 <h1 align="center">🚀 Ignacio Luque | Full Stack Developer & Entrepreneur </h1>
 
-Hi there! I'm Ignacio or lukech, a **full-stack developer**, **entrepreneur**, and **problem solver**. I specialize in building scalable web applications, automating trading strategies, and optimizing complex systems. I run **Boreal Studio**, where I create high-performance websites, and I work on multiple **side projects** related to fintech, e-commerce, and automation.
-
 <p align="center">
-  <b>Focused on becoming a better developer every day! 🏋</b>
+  <b>Hi there! I'm Ignacio or lukech, a full-stack developer, entrepreneur, and problem solver. I specialize in building scalable web applications, automating trading strategies, and optimizing complex systems. I run Boreal Studio, where I create high-performance websites, and I work on multiple side projects related to fintech, e-commerce, and automation.</b>
 </p>
 <div align="center">
 <p align="center">
@@ -31,13 +29,6 @@ Hi there! I'm Ignacio or lukech, a **full-stack developer**, **entrepreneur**, a
 <div align="center">
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukech10&theme=tokyonight" alt="lukech10 github stats" /></a>
-</p>
-</div>
-
-<div align="center">
-<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</a>
 </p>
 </div>
 
